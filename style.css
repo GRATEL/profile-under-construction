@@ -25,10 +25,6 @@ button{
 .img1{
     flex: 1;
 }
-@media and screen (max-width:)
-.text-main{
-    flex: 1;
-}
 h1{
     text-transform: capitalize;
     font-size: 22px;
